@@ -17,7 +17,7 @@ var webServerConf = {
 
   port: 8080,
   host: 'localhost',
-  ssl: true,
+  ssl: false,
 
   // Configuration for the event bus client side bridge
   // This bridges messages from the client side to the server side event bus
